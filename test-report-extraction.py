@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#This code is to extract infomation from test report of test Bench.
+
 import os
 import re
 import pandas as pd
